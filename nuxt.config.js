@@ -6,7 +6,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/dynamic-nuxt-gh-pages/',
+    base: '/',
     middleware: 'gh-pages-dynamic-routes'
   },
 
